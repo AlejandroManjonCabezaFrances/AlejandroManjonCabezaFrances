@@ -1,6 +1,6 @@
-# Alejandro Manjón-Cabeza Francés
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/njZPp4pQ0g4fe/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/njZPp4pQ0g4fe/giphy.gif" width="600" height="400" />
 <h1 align="center">Hi 👍, I ´m Alex</h1>
  <h3 align="center">A passionate programmer from Madrid
  <h3>
