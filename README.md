@@ -1,17 +1,20 @@
 
-### 🛤 My 42 Journey:
-| 💻Project |
+
+###  My 42 Journey:
+| Project |
 |------|
-|[**📚 Libft**](https://github.com/dloopezz/Libft) |
-| [**✍🏼 Ft_printf**](https://github.com/dloopezz/ft_printf) |
+| [**🌊 Piscina**](https://github.com/AlejandroManjonCabezaFrances/Piscina) |
+| [**📚 Libft**](https://github.com/AlejandroManjonCabezaFrances/Libft) |
+| [**✍🏼 Ft_printf**](https://github.com/AlejandroManjonCabezaFrances/ft_printf) |
 | **🤖 Born2beroot** |
-| [**⏩ Get_next_line**](https://github.com/dloopezz/get_next_line) |
-| **📝 Exam Rank 02** |
-| [**👾 So_long**](https://github.com/dloopezz/so_long) |
-| [**🗜 Pipex**](https://github.com/dloopezz/pipex) |
-| [**🔢 Push_swap**](https://github.com/dloopezz/push_swap) |
-| [**🍴 Philosophers**](https://github.com/dloopezz/Philosophers) |
-| [**🖥 Minishell**](https://github.com/dloopezz/minishell) |
+| [**⏩ Get_next_line**](https://github.com/AlejandroManjonCabezaFrances/Gnl) |
+| [**📝 Exam Rank 02**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42) |
+| [**🕖 Exam Rank 03**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42) |
+| [**👾 So_long**](https://github.com/AlejandroManjonCabezaFrances/so_long) |
+| [**🔀 Pipex**](https://github.com/AlejandroManjonCabezaFrances/pipex) |
+| [**🔢 Push_swap**](https://github.com/AlejandroManjonCabezaFrances/Push_Swap) |
+| [**🍴 Philosophers**]() |
+| [**🖥 Minishell**](https://github.com/AlejandroManjonCabezaFrances/Minishell) |
 <h1 align="left">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">, I´m Alex</h1>
  <h3 align="left">A passionate programmer from Madrid
  <h3>
