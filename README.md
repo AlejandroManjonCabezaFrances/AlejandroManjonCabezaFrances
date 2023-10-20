@@ -8,8 +8,8 @@
 | [**✍🏼 Ft_printf**](https://github.com/AlejandroManjonCabezaFrances/ft_printf) |
 | **🤖 Born2beroot** |
 | [**⏩ Get_next_line**](https://github.com/AlejandroManjonCabezaFrances/Gnl) |
-| [**📝 Exam Rank 02**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42) |
-| [**🕖 Exam Rank 03**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42) |
+| [**📝 Exam Rank 02**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42/tree/main/Exam-rank02) |
+| [**🕖 Exam Rank 03**](https://github.com/AlejandroManjonCabezaFrances/Exam-rank42/tree/main/Exam-rank03) |
 | [**👾 So_long**](https://github.com/AlejandroManjonCabezaFrances/so_long) |
 | [**🔀 Pipex**](https://github.com/AlejandroManjonCabezaFrances/pipex) |
 | [**🔢 Push_swap**](https://github.com/AlejandroManjonCabezaFrances/Push_Swap) |
