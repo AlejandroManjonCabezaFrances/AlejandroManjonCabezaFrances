@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/njZPp4pQ0g4fe/giphy.gif" width="700" height="500" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/njZPp4pQ0g4fe/giphy.gif" width="650" height="500" />
 
 ###  My 42 Journey:
 | Project |
