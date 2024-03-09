@@ -35,10 +35,64 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40"/>&nbsp;
    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt"Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/>&nbsp;
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="icon" width="65" height="65" />
+      <br>C
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="icon" width="65" height="65" />
+      <br>GitHub
+    <td align="center" width="96">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="icon" width="65" height="65" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="icon" width="65" height="65" />
+      <br>Vim
+    </td>
+    <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="icon" width="65" height="65" />
+      <br>VsCode
+    </td>
+
+ 
+ </tr>
+</table>
+<br><br>
+
+
+</div>
 
 ---
     
