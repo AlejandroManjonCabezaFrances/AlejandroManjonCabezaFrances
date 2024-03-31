@@ -25,7 +25,7 @@
 ---
 
 ### 👨‍🎓 About Me :
-- 📔 I`m currently learning **C, (42 | Madrid, Fundación Telefónica)**
+- 📔 I`m currently learning **C and C++ (42 | Madrid, Fundación Telefónica)**
 - 💬 How to reach me **manjon.alejandro@gmail.com**
    
 <div align="left">
